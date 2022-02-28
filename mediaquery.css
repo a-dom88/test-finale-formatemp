@@ -1,0 +1,232 @@
+@media screen and (min-width: 350px) and (max-width: 700px) {
+  .fit-parallax-1 {
+    height: 300px;
+    padding: 10px;
+  }
+
+  /* fit-container-1 start */
+
+  #fit-container-1 {
+    height: 1000px;
+  }
+
+  #slogan-1 {
+    font-size: 30px;
+    margin-top: 70px;
+  }
+
+  #slogan-6 {
+    margin-bottom: -50px;
+  }
+
+  #lorem-1,
+  #lorem-2 {
+    font-size: 0px;
+    visibility: hidden;
+  }
+
+  .wit-lorem {
+    font-size: 0px;
+    visibility: hidden;
+  }
+
+  .wit-h3 {
+    font-size: 20px;
+  }
+
+  .wit-card,
+  .wit-card-hover {
+    padding: 20px;
+    height: 220px;
+  }
+
+  .wit-img-card {
+    width: 100px;
+    height: 100px;
+  }
+
+  /* fit-container-1 end */
+
+  /*fit-parallax-2 start */
+
+  .fit-parallax-2 {
+    height: 250px;
+  }
+
+  #slogan-7 {
+    font-size: 35px;
+    margin-top: 75px;
+  }
+  /* fit-parallax-2 end */
+
+  /* fit-container-2 start */
+
+  #fit-container-2 {
+    height: 200px;
+    margin-bottom: 50px;
+    padding: 0 50px;
+  }
+
+  /* fit-container-2 end */
+
+  /* fit-container-courses start */
+
+  .fit-container-courses {
+    height: 850px;
+  }
+  /* courses start */
+
+  #row-courses-1 {
+    padding: 0;
+    margin-top: -100px;
+    margin-bottom: 200px;
+  }
+
+  .courses-sched {
+    float: none;
+  }
+
+  .text-class {
+    width: auto;
+    padding: 20px 10px;
+    text-align: end;
+  }
+
+  .ttl-class {
+    font-size: 20px;
+  }
+
+  .courses-sched {
+    margin-top: 50px;
+  }
+
+  #row-courses-2 {
+    margin-top: 50px;
+  }
+
+  /* courses end */
+  /* fit-container-courses End */
+
+  /* fit-parallax-3 start */
+
+  .fit-parallax-3 {
+    height: 200px;
+  }
+
+  #slogan-13 {
+    margin-top: 50px;
+  }
+
+  /*fit-parallax-3 end */
+  /* fit-container-3 start */
+
+  #fit-container-3 {
+    height: 150px;
+  }
+  /* fit-container-3 end */
+
+  /* fit-container-4 start */
+  /* commutable fade menu week schedule start */
+
+  #fit-container-4 {
+    height: 1250px;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
+  #schedule-1 {
+    margin: 0;
+    text-align: center;
+  }
+  .nav-tabs > li {
+    display: inline;
+    width: 50px;
+  }
+  /* fit-container-4 end */
+
+  /* schedule start */
+
+  #row-divider {
+    margin-top: 180px;
+  }
+
+  .text-sched {
+    width: auto;
+    padding: 20px 10px;
+    text-align: end;
+  }
+
+  .ttl-sched {
+    font-size: 20px;
+  }
+
+  .p-sched {
+    font-size: 10px;
+  }
+
+  /* schedule end */
+  /* commutable fade menu week schedule end*/
+
+  /* booking course start */
+
+  .fit-container-5 {
+    padding: 10px;
+  }
+  .colxs2 {
+    width: 0%;
+  }
+
+  .colxs4 {
+    width: 45%;
+  }
+
+  #btn-book {
+    width: 100px;
+  }
+
+  /* booking course end */
+
+  /* fit-container-gallery start */
+  .fit-container-gallery {
+    height: 200px;
+    padding: 10px;
+  }
+  .gallery {
+    display: block;
+  }
+  .img-gallery {
+    width: 80px;
+    height: 80px;
+  }
+
+  img {
+    transition: transform 0.25s ease;
+    z-index: 100;
+  }
+
+  img:hover {
+    -webkit-transform: scale(5); /* or some other value */
+    transform: scale(5);
+    z-index: 100;
+  }
+  /* fit-container-gallery end */
+
+  /* team start */
+
+  .fit-container-7 {
+    height: 1600px;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+  }
+
+  /* team end */
+
+  /* modal start */
+
+  .modal-fade,
+  #modal-privacy {
+    z-index: 50;
+  }
+
+  /* modal fade end */
+}
