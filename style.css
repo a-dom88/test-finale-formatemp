@@ -139,6 +139,7 @@ body {
   background-position: right;
   background-attachment: fixed;
   margin-top: 80px;
+  background-size: cover;
   text-align: center;
 }
 
@@ -255,6 +256,7 @@ body {
   background-position: left;
   background-attachment: fixed;
   text-align: center;
+  background-size: cover;
 }
 
 .row {
@@ -490,6 +492,7 @@ body {
   background-position: left;
   background-attachment: fixed;
   text-align: center;
+  background-size: cover;
 }
 
 .row {
